@@ -5,6 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT ZABAPGIT_DEMO.
 
-PARAMETERS:p_test(6) type c.
+PARAMETERS:p_test(10) type c.
 
 MESSAGE p_test type 'I'.
